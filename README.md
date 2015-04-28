@@ -1,1 +1,0 @@
-rails twitter app. getting used to using rails
